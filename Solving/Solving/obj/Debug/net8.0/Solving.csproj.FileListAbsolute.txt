@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Solving\Solving\bin\Debug\net8.0\Solving.exe
+C:\Users\Admin\source\repos\Solving\Solving\bin\Debug\net8.0\Solving.deps.json
+C:\Users\Admin\source\repos\Solving\Solving\bin\Debug\net8.0\Solving.runtimeconfig.json
+C:\Users\Admin\source\repos\Solving\Solving\bin\Debug\net8.0\Solving.dll
+C:\Users\Admin\source\repos\Solving\Solving\bin\Debug\net8.0\Solving.pdb
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\Solving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\Solving.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\Solving.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\Solving.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\Solving.dll
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\refint\Solving.dll
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\Solving.pdb
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\Solving.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Solving\Solving\obj\Debug\net8.0\ref\Solving.dll
